@@ -15,7 +15,7 @@ tags:
 ## Add Swagger 2 for Spring MVC
 
 - Spring MVC version: 4.2.7
-- Swagger version: 2.8.0
+- Swagger version: 2.7.0
 
 
 Add swagger2 dependency into pom.xml.
@@ -59,6 +59,10 @@ If the api-docs too big, swagger ui will have problem to render, so need to use 
 ```
 
 ## Add Swagger 2 for Spring Boot
+
+- Spring Boot version: 2.0.3
+- Swagger version: 2.8.0
+
 
 Similar with Spring MVC, we need add dependency libararies and config the swagger
 

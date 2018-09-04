@@ -156,8 +156,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -441,6 +441,7 @@ gitalk:
 
 # Google Analytics
 #google_analytics:
+google_analytics: UA-125125287-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
