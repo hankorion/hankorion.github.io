@@ -1,5 +1,5 @@
 ---
-title: ORA-01756: Quoted String Not Properly Terminated
+title: Oracle ORA-01756 Quoted String Not Properly Terminated
 description: Encounter ORA-01756 error when insert data
 categories:
  - Database
