@@ -24,4 +24,5 @@ tags:
 
 ### Solutions
 
-Change the Dockerfile app name like from app to app-abc, amazing!!! we can push updated docker image into docker hub!!!
+- Change the Dockerfile app name like from app to app-abc, amazing!!! we can push updated docker image into docker hub!!!
+- Maybe it really due to the jar file is nothing changed... like maven package not effective
