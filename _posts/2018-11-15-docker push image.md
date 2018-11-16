@@ -1,6 +1,6 @@
 ---
 title: Docker push image always say Layer already exists
-description: error: Docker push image always say Layer already exists
+description: Docker push image always say Layer already exists
 categories:
  - Docker
 tags:

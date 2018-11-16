@@ -1,6 +1,6 @@
 ---
 title: aws signature error 
-description: error: You must be logged in to the server (Unauthorized)
+description: You must be logged in to the server (Unauthorized)
 categories:
  - VM
 tags:
